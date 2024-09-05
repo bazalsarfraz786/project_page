@@ -1,5 +1,5 @@
 # 🌐 project_page
-🌟 Friend's Project Page: A stylish and interactive project page created with HTML and CSS. Designed to showcase a friend's work with a clean layout and engaging features. 🚀🎨
+🌟 Friend's Project Page: Created a responsive web page based on a Figma design provided by a friend. Developed with HTML and CSS to bring the design to life. 🖥️🎨
  For Further Zoom Out This Page 📄
 
 # 🔗 Project Link
